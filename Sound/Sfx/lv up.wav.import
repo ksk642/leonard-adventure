@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/lv up.wav-7050631cb8e600bbc3707d88cf2706d8.sample"
+
+[deps]
+
+source_file="res://Sound/Sfx/lv up.wav"
+dest_files=[ "res://.import/lv up.wav-7050631cb8e600bbc3707d88cf2706d8.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

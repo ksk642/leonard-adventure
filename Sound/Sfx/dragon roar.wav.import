@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/dragon roar.wav-48f721c43837f82b2f3cc4a15162b6a3.sample"
+
+[deps]
+
+source_file="res://Sound/Sfx/dragon roar.wav"
+dest_files=[ "res://.import/dragon roar.wav-48f721c43837f82b2f3cc4a15162b6a3.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
